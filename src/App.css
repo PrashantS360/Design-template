@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Roboto+Condensed&family=Titillium+Web&display=swap');
+
+.gradient-button1 {
+  background: linear-gradient(180deg, #017B96 0%, #1E4047 100%);
+}
+
+.gradient-button2 {
+  background: linear-gradient(180deg, rgba(78, 153, 164, 0.95) 0%, #004D58 100%);
+}
+
+.font-para {
+  font-family: 'Baloo 2', sans-serif;
+  ;
+}
+
+.font-heading {
+  font-family: 'Titillium Web', sans-serif;
+  ;
+}
+
+.box-shadow {
+  background: #bde4e4;
+  box-shadow: inset 0px 250px 124px #FFFFFF;
+}
