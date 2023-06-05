@@ -4,7 +4,7 @@ import wedding6 from '../assets/wedding6.jpg'
 
 const WeddingCard = ({imgLink, background}) => {
   return (
-    <div className={`${background} rounded-md w-[290px] p-2 shadow-lg m-2`}>
+    <div className={`${background} rounded-md w-[270px] p-2 shadow-lg m-2`}>
         <img src={imgLink} alt="wedding" className='rounded-t-md' />
         <div className='flex'>
             <img className='w-1/3' src={wedding5} alt="wedding" />
