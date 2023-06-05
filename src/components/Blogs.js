@@ -14,7 +14,7 @@ const Blogs = () => {
                     <p className='text-sm'>Check out our Latest Blog</p>
             </div>
 
-            <div className="flex justify-evenly space-x-3 flex-wrap">
+            <div className="flex justify-evenly space-x-3 flex-wrap items-center">
                 <BlogCard imgLink={blog1} title="Wedding Photography at Goa"/>
                 <BlogCard imgLink={blog2} title="Photography: Expectations vs. Reality"/>
                 <div className="trending lg:w-[30%] text-sm">
